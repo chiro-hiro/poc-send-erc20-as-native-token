@@ -23,7 +23,7 @@ $ testrpc
 
 At the same time execute:
 ```
-npm test
+$ npm test
 ```
 
 Result:
